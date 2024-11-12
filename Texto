@@ -1,0 +1,6 @@
+$bbl--(las variables se inician con $)
+for--(ciclo)
+print--(imprimir)
+read--(leer o cin)
+{}--(dentro codigo tipo if)
+if -- (un if)
